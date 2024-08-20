@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: rgb(199, 196, 10)
+}
+
+.profile-button {
+    background: rgb(199, 196, 10);
+    color: black;
+    box-shadow: none;
+    border: none
+}
+
+.profile-button:hover {
+    background: red;
+}
+
+.labels {
+    font-size: 17px;
+}
+.col-md-12 textarea {
+    border: 2px solid black;    
+ }
+.col-md-12 {
+    padding: 10px;
+}
+.col-md-12 input {
+   border: 2px solid black;    
+}
